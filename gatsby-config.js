@@ -1,4 +1,4 @@
 module.exports = {
   pathPrefix: `/test`,
-  plugins: [],
+  plugins: [`gatsby-plugin-gatsby-cloud`],
 };
